@@ -6,3 +6,4 @@ Starter repo for react project using router and webpack dev server
 
 npm install
 npm start
+navigate to localhost:8080/
