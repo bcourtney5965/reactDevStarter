@@ -2,7 +2,7 @@
 * Credit goes to TJ Carskadon
 https://github.com/tjcarskadon
 
-Starter repo for react project using router and webpack dev server
+Starter repo for react project using react, react router and webpack dev server
 
 npm install
 npm start
